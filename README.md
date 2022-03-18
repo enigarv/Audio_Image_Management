@@ -17,5 +17,11 @@ For the task of face recognition we used the **Fine Tuning** technique testing d
 - VGG;
 - VGGface.
 
+About us:
+Ginevra Mariani 
+
+Lorenzo Mora - @github/lomProg
+
+Riccardo Confalonieri - @github/rconfa
 
 
