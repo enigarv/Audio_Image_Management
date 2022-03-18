@@ -20,8 +20,8 @@ For the task of face recognition we used the **Fine Tuning** technique testing d
 About us:
 Ginevra Mariani 
 
-Lorenzo Mora - @github/lomProg
+Lorenzo Mora - [lomProg](https://github.com/lomProg)
 
-Riccardo Confalonieri - @github/rconfa
+Riccardo Confalonieri - [rconfa](https://github.com/rconfa)
 
 
